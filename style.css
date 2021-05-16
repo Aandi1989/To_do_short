@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 20%;
+}
+
+.flex {
+    display: flex;
+}
+
+.center {
+    justify-content: center;
+}
+
+.mt-10 {
+    margin-top: 10%;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.w-3\/4{
+    width: 80%;
+}
+
+.tag {
+    margin-left: 2%;
+    background: #0d9e0d;
+    border-radius: 5px;
+}
+
+.close-icon {
+    border: 1px solid;
+    border-radius: 5px;
+    margin-right: 2%;
+}
