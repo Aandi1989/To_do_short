@@ -67,6 +67,3 @@ const generateTempId = () => {
         return v.toString(16);
     });
 }
-
-console.log(localStorage.getItem('currentTag'))
-console.log(localStorage.getItem('tags'))
